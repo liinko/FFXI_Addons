@@ -7,6 +7,7 @@
   - **Tracks any items that go into a players inventory**
     - Chocobo Digging - track dug up items
     - Farming - track monster drops
+    - Fishing - track fish catches
     - HELM - track gathered items
     - Or if you are in a party and just want to see what you get over time (like the images)
   

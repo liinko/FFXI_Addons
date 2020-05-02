@@ -27,6 +27,10 @@
     - This will keep everything in your list, but will not add anything new until it is toggled ON again
     - You can see the tracking status on the top of the list **(ON)** or **(OFF)**
     
+  - The list can be moved 
+    - Windower: click and drag 
+    - Ashita: hold shift then click and drag
+    
   - The list does not update when items are removed from inventory (dropped, sold, etc.)
   
   - (Ashita) Equipping an item with charges (eg. Empress Ring) may cause it to potentially appear on the list

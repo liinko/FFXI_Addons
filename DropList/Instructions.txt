@@ -1,0 +1,35 @@
+FFXI DropList Addon by Liinko
+	An item tracker which tracks any item that falls into a players inventory
+	
+Instructions:
+
+Ashita:
+	1. Go into the Ashita folder where you found these instructions
+	2. Copy the `droplist` folder 
+	3. Go to your Ashita `addons` directory (...\Ashita\addons)
+	4. Paste the folder here
+	5. Go in-game and type /addon load droplist
+	
+	Notes:
+	* The window can be moved by holding shift and clicking and dragging with your mouse.
+	* To get rid of the addon type /addon unload droplist
+	
+Windower:
+	1. Go into the Windower folder where you found these instructions
+	2. Copy the `droplist` folder 
+	3. Go to your Windower `addons` directory (...\Windower\addons)
+	4. Paste the folder here
+	5. Go in-game and type //lua load droplist
+	
+	Notes:
+	* The window can be moved by clicking and dragging with your mouse.
+	* To get rid of the addon type //lua unload droplist
+	
+	
+Commands:
+	Ashita: /droplist  |  Windower: //droplist
+	
+	* help - Shows command list
+	* toggle - Toggles item tracking ON or OFF
+	* toggletotal - Toggles inventory totals display
+	* reset - Clears the entire Drop List

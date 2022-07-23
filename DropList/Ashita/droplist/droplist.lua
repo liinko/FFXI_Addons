@@ -205,7 +205,6 @@ function getTotalInInventory(itemId)
 		local item = inventory:GetItem(0, x);
 		if (item ~= nil and item.Id == itemId) then
 			total = total + item.Count;
-			print(string.format('count: %s', item.Count));
 		end
 	end
 	
